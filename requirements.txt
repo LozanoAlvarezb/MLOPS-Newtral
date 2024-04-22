@@ -1,0 +1,9 @@
+ipykernel==6.29.4 
+ipywidgets==8.1.2 
+numpy==1.26.4 
+ollama==0.1.8 
+openai==1.23.2 
+pandas==2.2.2 
+sentence-transformers==2.7.0 
+tqdm==4.66.2 
+transformers==4.40.0 
