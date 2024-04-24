@@ -4,7 +4,7 @@ This Jupyter Notebook demonstrates the implementation of a conversational system
 
 ## Installation
 
-To execute the code and install the requirements it's recommended to use ```Python3.10```.
+🐍 We recommended to use ```Python3.10```
 
 To run this notebook, you need to install the required libraries:
 
