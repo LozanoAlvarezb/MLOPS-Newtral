@@ -6,7 +6,13 @@ This Jupyter Notebook demonstrates the implementation of a conversational system
 
 🐍 We recommended to use ```Python3.10```
 
-To run this notebook, you need to install the required libraries:
+To run this notebook you first need to create an environment (here is an example):
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+You also need to install the required libraries:
 
 ```bash
 pip install -r requirements.txt
